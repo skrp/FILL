@@ -21,11 +21,23 @@ A rogue process stored data
 Scrub cost 0-re-wipe
 Secure clean storage
 
+All space a brickwall
+Random-written-data 
+Sha verified in index
 
+Randomly checked 
+Explicitly freed
 
+Wall over-time inspected
+Secure no alteration
 
+Explicit ranges of block
+Given address & index
+
+Truly random checks
+Ratio customizable
 ############################
-############################
+More effient than zero?
 ############################
 ############################
 ############################
