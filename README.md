@@ -11,3 +11,21 @@ As a wall verify space
 free 10G
 90G Wall
 20G Hole
+# Over-view ################
+Storage writers:
+Hardware & Software
+
+Software have never be sure 
+A rogue process stored data
+
+Scrub cost 0-re-wipe
+Secure clean storage
+
+
+
+
+############################
+############################
+############################
+############################
+############################
